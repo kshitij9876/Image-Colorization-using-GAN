@@ -46,4 +46,4 @@ The Image Colorization project demonstrates the successful application of deep l
 
 ## Contributors
 1. Rajeev Ranjan
-2. Kshitij Kumar
+2. Anand Kumar Sahu
