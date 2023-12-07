@@ -43,7 +43,3 @@ The Image Colorization project could be extended in the following ways:
 3. Implementing progressive growing techniques to gradually increase the image resolution during training, leading to higher-quality colorization results.
 ## Conclusion
 The Image Colorization project demonstrates the successful application of deep learning techniques for automatic black and white image colorization. By utilizing a combination of popular generator models and the PatchGAN discriminator, the project achieves impressive results in converting black and white scenery images to their corresponding colored versions. The developed models have the potential to be used in various applications, including image restoration, art enhancement, and creative content generation.
-
-## Contributors
-1. Rajeev Ranjan
-2. Anand Kumar Sahu
